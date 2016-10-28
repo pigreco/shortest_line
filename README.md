@@ -10,3 +10,5 @@ calcolare la linea di minor distanza tra punti e linea con il SOLO calcolatore d
 ## video demo
 
 https://www.youtube.com/watch?v=m2AqZjMZVvQ
+
+leggere [wiki](https://github.com/pigreco/shortest_line/wiki)
