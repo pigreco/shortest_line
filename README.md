@@ -6,3 +6,7 @@ calcolare la linea di minor distanza tra punti e linea con il SOLO calcolatore d
 ## calcolatore campi QGIS
 
 <img src ="https://github.com/pigreco/shortest_line/blob/master/Immagine%207.jpg">
+
+## video demo
+
+https://www.youtube.com/watch?v=m2AqZjMZVvQ
